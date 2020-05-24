@@ -1,4 +1,4 @@
-package com.github.jayuc.demo;
+package top.jayu.demo;
 
 import org.junit.After;
 import org.junit.Before;
